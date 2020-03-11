@@ -1,13 +1,15 @@
 // Your code here
 
 class Polygon {
+ get countSides(){
+   
+ }
+}
+
+class Triangle extends Polygon {
   
 }
 
-class Triangle {
-  
-}
-
-class Square {
+class Square extends Polygon {
   
 }
