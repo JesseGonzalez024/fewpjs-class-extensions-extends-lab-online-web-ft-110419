@@ -3,3 +3,11 @@
 class Polygon {
   
 }
+
+class Triangle {
+  
+}
+
+class Square {
+  
+}
